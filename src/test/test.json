@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "properties": [
+        {
+          "name": "address"
+        },{
+          "fields": [
+            {
+              "name": {
+                "tag": "em",
+                "value": "street"
+              }
+            },{
+              "name": "city"
+            },{
+              "name": {
+                "tag": "em",
+                "value": "state"
+              }
+            }
+          ]
+        },{
+          "type": "array"
+        },{
+          "type": "fixed"
+        }
+      ]
+    }
+  ]
+  
+]
